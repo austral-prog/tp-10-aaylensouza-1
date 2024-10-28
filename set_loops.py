@@ -1,2 +1,2 @@
 def unique_strings(words):
-    pass
+    print(set(words))
