@@ -1,2 +1,3 @@
 def unique_strings(words):
-    print(set(words))
+    unique_chars = set(words)
+    return unique_chars
